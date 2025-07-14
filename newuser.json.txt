@@ -5,7 +5,7 @@
 "account" : "Shinchan In Hindi"
 },
 {
-"id" : 02;
+"id" : 02,
 "name" : "Doreamon",
 "account" : "Doreamon In Hindi"
 },
